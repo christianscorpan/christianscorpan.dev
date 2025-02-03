@@ -8,3 +8,8 @@
 [sdla]:https://github.com/christianscorpan/sdla
 [inv-ai]:https://github.com/christianscorpan/inv-ai
 
+
+
+## Contact:
+* [LinkedIn](https://www.linkedin.com/in/christianscorpan/)
+* [Email](mailto:christianscorpan@gmail.com)
